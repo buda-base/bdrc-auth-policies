@@ -1,0 +1,79 @@
+@prefix aut:   <http://purl.bdrc.io/ontology/ext/auth/> .
+@prefix adr:   <http://purl.bdrc.io/resource-auth/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#>
+@prefix foaf:  <http://xmlns.com/foaf/0.1/>
+@prefix adm:  <http://purl.bdrc.io/ontology/admin/>
+@prefix bdr:  <http://purl.bdrc.io/resource/>
+
+# BDRC-AUTH POLICIES
+
+# ENDPOINTS
+
+adr:Edpa1 a aut:Endpoint ;
+	aut:path "auth/rdf/private" ;
+	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7 ;
+	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
+
+adr:Edpa2 a aut:Endpoint ;
+	aut:path "auth/rdf/staff" ;
+	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7;
+	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
+
+adr:Edpa3 a aut:Endpoint ;
+	aut:path "auth/rdf/admin" ;
+	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7 ;
+	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
+
+adr:TestEdpa1 a aut:Endpoint ;
+	aut:path "auth/rdfaccess/private" ;
+	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7 ;
+	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
+
+adr:TestEdpa3 a aut:Endpoint ;
+	aut:path "auth/rdfaccess/admin/" ;
+	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7 ;
+	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
+
+adr:TestEdpa2 a aut:Endpoint ;
+	aut:path "auth/rdfaccess/staff" ;
+	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7;
+	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
+
+adr:TestEdpa3 a aut:Endpoint ;
+	aut:path "resource/" ;
+	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7;
+	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
+
+# ACCESSTYPE PERMISSIONS
+
+adr:act1 a aut:ResourceAccess;
+	aut:forPermission adr:53f83642-a198-4e35-b3a3-cce471bf84ba;
+	aut:policy bdr:AccessFairUse.
+
+adr:act2 a aut:ResourceAccess;
+	aut:forPermission adr:e3803d41-3476-45c8-885b-cbf4cf07eb85;
+	aut:policy bdr:AccessRestrictedSealed.
+
+adr:act3 a aut:ResourceAccess;
+	aut:forPermission adr:94aeb9e4-387f-45a7-aa53-f23b72b3581b;
+	aut:policy bdr:AccessRestrictedInChina.
+
+adr:act4 a aut:ResourceAccess;
+	aut:forPermission adr:e6f0abf5-efd6-4c21-a77d-b6e0d857eee5;
+	aut:policy bdr:AccessOpen.
+
+adr:act5 a aut:ResourceAccess;
+	aut:forPermission adr:01217e3c-3242-48be-aa37-720a67ea5640;
+	aut:policy bdr:AccessRestrictedTemporarily.
+
+adr:act6 a aut:ResourceAccess;
+	aut:forPermission adr:83b8d0a6-3670-4a17-9d1f-c3ffb3fcbd15;
+	aut:policy bdr:AccessRestrictedByQuality.
+
+adr:act7 a aut:ResourceAccess;
+	aut:forPermission adr:8ecdf2bf-a500-4402-b583-716e98efb74e;
+	aut:policy bdr:AccessMixed.
+
+adr:act8 a aut:ResourceAccess;
+	aut:forPermission adr:bd75d2cf-65bd-463f-9f37-6aa13134b722;
+	aut:policy bdr:AccessRestrictedByTbrc.
