@@ -11,37 +11,37 @@
 
 adr:Edpa1 a aut:Endpoint ;
 	aut:path "auth/rdf/private" ;
-	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7 ;
+	aut:forGroup adr:957f83d8-7590-4e07-ba0a-5dcd43cddcb7 ;
 	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
 
 adr:Edpa2 a aut:Endpoint ;
 	aut:path "auth/rdf/staff" ;
-	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7;
+	aut:forGroup adr:957f83d8-7590-4e07-ba0a-5dcd43cddcb7;
 	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
 
 adr:Edpa3 a aut:Endpoint ;
 	aut:path "auth/rdf/admin" ;
-	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7 ;
+	aut:forGroup adr:957f83d8-7590-4e07-ba0a-5dcd43cddcb7 ;
 	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
 
 adr:TestEdpa1 a aut:Endpoint ;
 	aut:path "auth/rdfaccess/private" ;
-	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7 ;
+	aut:forGroup adr:957f83d8-7590-4e07-ba0a-5dcd43cddcb7 ;
 	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
 
 adr:TestEdpa3 a aut:Endpoint ;
-	aut:path "auth/rdfaccess/admin/" ;
-	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7 ;
+	aut:path "auth/rdfaccess/admin" ;
+	aut:forGroup adr:957f83d8-7590-4e07-ba0a-5dcd43cddcb7 ;
 	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
 
 adr:TestEdpa2 a aut:Endpoint ;
 	aut:path "auth/rdfaccess/staff" ;
-	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7;
+	aut:forGroup adr:957f83d8-7590-4e07-ba0a-5dcd43cddcb7;
 	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
 
 adr:TestEdpa3 a aut:Endpoint ;
 	aut:path "resource/" ;
-	aut:forGroup adr:1f375b66-31c2-415d-b20d-6904ca9847a7;
+	aut:forGroup adr:957f83d8-7590-4e07-ba0a-5dcd43cddcb7;
 	aut:appId adr:hqT7dOM6w7RSxTWpyjk1ymzUfKTAuEg2 .
 
 # ACCESSTYPE PERMISSIONS
@@ -77,3 +77,4 @@ adr:act7 a aut:ResourceAccess;
 adr:act8 a aut:ResourceAccess;
 	aut:forPermission adr:bd75d2cf-65bd-463f-9f37-6aa13134b722;
 	aut:policy bdr:AccessRestrictedByTbrc.
+
