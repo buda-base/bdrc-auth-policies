@@ -4,6 +4,7 @@
 @prefix foaf:  <http://xmlns.com/foaf/0.1/>
 @prefix adm:  <http://purl.bdrc.io/ontology/admin/>
 @prefix bdr:  <http://purl.bdrc.io/resource/>
+@prefix bda:  <http://purl.bdrc.io/admindata/>
 
 # BDRC-AUTH POLICIES
 
@@ -45,34 +46,30 @@ adr:TestEdpa2 a aut:Endpoint ;
 
 adr:act1 a aut:ResourceAccess;
 	aut:forPermission adr:4d39249c-0896-4dfe-9af4-6b2857868dff;
-	aut:policy bdr:AccessFairUse.
+	aut:policy bda:AccessFairUse.
 
 adr:act2 a aut:ResourceAccess;
 	aut:forPermission adr:6ffab1d6-0d53-46c4-851a-c18d033c2e19;
-	aut:policy bdr:AccessRestrictedSealed.
-
-adr:act3 a aut:ResourceAccess;
-	aut:forPermission adr:97cfbe26-41fb-419e-aac1-9c3ed4a64efc;
-	aut:policy bdr:AccessRestrictedInChina.
+	aut:policy bda:AccessRestrictedSealed.
 
 adr:act4 a aut:ResourceAccess;
 	aut:forPermission adr:a12b0e63-1e84-4dae-b03d-a9ac2b64c7a6;
-	aut:policy bdr:AccessOpen.
+	aut:policy bda:AccessOpen.
 
 adr:act5 a aut:ResourceAccess;
 	aut:forPermission adr:a505d19a-17f2-4e73-853a-c2c69a26d97f;
-	aut:policy bdr:AccessRestrictedTemporarily.
+	aut:policy bda:AccessRestrictedTemporarily.
 
 adr:act6 a aut:ResourceAccess;
 	aut:forPermission adr:dda56646-3b14-48aa-bbf7-8efeb47de739;
-	aut:policy bdr:AccessRestrictedByQuality.
+	aut:policy bda:AccessRestrictedByQuality.
 
 adr:act7 a aut:ResourceAccess;
 	aut:forPermission adr:df1847e3-6f78-4f73-8228-e2f085a1d66b;
-	aut:policy bdr:AccessMixed.
+	aut:policy bda:AccessMixed.
 
 adr:act8 a aut:ResourceAccess;
 	aut:forPermission adr:eeaba32e-1367-4dd4-ab63-9abd5ecf73cf;
-	aut:policy bdr:AccessRestrictedByTbrc.
+	aut:policy bda:AccessRestrictedByTbrc.
 
 
