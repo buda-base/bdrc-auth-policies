@@ -79,3 +79,11 @@ adr:114635926879799654981 aut:personalAccess bdr:W1KG26273 .
 
 #Marc
 adr:110316226482380068187 aut:personalAccess bdr:W28263 .
+
+# Status based access
+
+#Staff group
+adr:e7c73ad6-9580-4c2c-bdfd-88b14bc5d266 aut:forAnyStatus true .
+
+#Admin group
+adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 aut:forAnyStatus true .
