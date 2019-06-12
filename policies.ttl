@@ -72,4 +72,10 @@ adr:act8 a aut:ResourceAccess;
 	aut:forPermission adr:eeaba32e-1367-4dd4-ab63-9abd5ecf73cf;
 	aut:policy bda:AccessRestrictedByTbrc.
 
+# PERSONAL PERMISSIONS
 
+#Élie
+adr:114635926879799654981 aut:personalAccess bdr:W1KG26273
+
+#Marc
+adr:110316226482380068187 aut:personalAccess bdr:W28263
