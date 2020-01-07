@@ -14,6 +14,11 @@ adr:Users a aut:Endpoint ;
 	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 ;
 	aut:appId adr:WQ1WD5fRtieraybXqT9zNU342YXBIwsS .
 
+adr:SearchUsers a aut:Endpoint ;
+	aut:path "/resource-nc/userSearch" ;
+	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 ;
+	aut:appId adr:WQ1WD5fRtieraybXqT9zNU342YXBIwsS .
+
 adr:Edpa1 a aut:Endpoint ;
 	aut:path "auth/rdf/private" ;
 	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60,adr:2c46df88-6302-4c9e-b7ff-52d07c3190c6, adr:e7c73ad6-9580-4c2c-bdfd-88b14bc5d266 ;
