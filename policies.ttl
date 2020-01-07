@@ -9,6 +9,10 @@
 # BDRC-AUTH POLICIES
 
 # ENDPOINTS
+adr:Users a aut:Endpoint ;
+	aut:path "/resource-nc/users" ;
+	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 ;
+	aut:appId adr:WQ1WD5fRtieraybXqT9zNU342YXBIwsS .
 
 adr:Edpa1 a aut:Endpoint ;
 	aut:path "auth/rdf/private" ;
