@@ -9,6 +9,21 @@
 # BDRC-AUTH POLICIES
 
 # ENDPOINTS
+adr:Withdraw a aut:Endpoint ;
+	aut:path "/bulk/withdraw" ;
+	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 ;
+	aut:appId adr:SMoqfBt8UmoDnF5NQneqAaTG1Ebvc3J7 .
+
+adr:BulkValue a aut:Endpoint ;
+	aut:path "/bulk/propValue" ;
+	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 ;
+	aut:appId adr:SMoqfBt8UmoDnF5NQneqAaTG1Ebvc3J7
+
+adr:BulkRename a aut:Endpoint ;
+	aut:path "/bulk/renameProp" ;
+	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 ;
+	aut:appId adr:SMoqfBt8UmoDnF5NQneqAaTG1Ebvc3J7
+
 adr:Users a aut:Endpoint ;
 	aut:path "/resource-nc/users" ;
 	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 ;
