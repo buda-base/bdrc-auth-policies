@@ -1,10 +1,10 @@
 @prefix aut:   <http://purl.bdrc.io/ontology/ext/auth/> .
 @prefix adr:   <http://purl.bdrc.io/resource-nc/auth/> .
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#>
-@prefix foaf:  <http://xmlns.com/foaf/0.1/>
-@prefix adm:  <http://purl.bdrc.io/ontology/admin/>
-@prefix bdr:  <http://purl.bdrc.io/resource/>
-@prefix bda:  <http://purl.bdrc.io/admindata/>
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix foaf:  <http://xmlns.com/foaf/0.1/>.
+@prefix adm:  <http://purl.bdrc.io/ontology/admin/>.
+@prefix bdr:  <http://purl.bdrc.io/resource/>.
+@prefix bda:  <http://purl.bdrc.io/admindata/>.
 
 # BDRC-AUTH POLICIES
 
