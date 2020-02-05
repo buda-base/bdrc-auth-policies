@@ -6,6 +6,7 @@
 @prefix bdr:  <http://purl.bdrc.io/resource/>.
 @prefix bda:  <http://purl.bdrc.io/admindata/>.
 
+
 # BDRC-AUTH POLICIES
 
 # ENDPOINTS
