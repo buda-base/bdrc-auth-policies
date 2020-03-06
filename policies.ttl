@@ -12,6 +12,7 @@
 # ENDPOINTS
 #adr:Bvmt a aut:Endpoint ;
 #	aut:path "/bvm/" ;
+#       aut:forGroup adr:8bb7ea78-6946-4bee-9188-8c53e2349675
 #	aut:forRole adr:42aef79d-3051-40f3-9501-c9f307fad6dd ;
 #	aut:forMethod "PUT" ;
 #	aut:appId adr:AbQo1DzTCz5SYYv4W1gpcCZH9mmRb55R .
