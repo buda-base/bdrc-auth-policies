@@ -12,6 +12,7 @@
 # ENDPOINTS
 #adr:Bvmt a aut:Endpoint ;
 #	aut:path "/bvm/" ;
+#       aut:forGroup adr:8bb7ea78-6946-4bee-9188-8c53e2349675
 #	aut:forRole adr:42aef79d-3051-40f3-9501-c9f307fad6dd ;
 #	aut:forMethod "PUT" ;
 #	aut:appId adr:AbQo1DzTCz5SYYv4W1gpcCZH9mmRb55R .
@@ -39,38 +40,6 @@ adr:Users a aut:Endpoint ;
 adr:SearchUsers a aut:Endpoint ;
 	aut:path "/resource-nc/userSearch" ;
 	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 ;
-	aut:appId adr:WQ1WD5fRtieraybXqT9zNU342YXBIwsS .
-
-adr:Edpa1 a aut:Endpoint ;
-	aut:path "auth/rdf/private" ;
-	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60,adr:2c46df88-6302-4c9e-b7ff-52d07c3190c6, adr:e7c73ad6-9580-4c2c-bdfd-88b14bc5d266 ;
-	aut:appId adr:WQ1WD5fRtieraybXqT9zNU342YXBIwsS .
-
-adr:Edpa2 a aut:Endpoint ;
-	aut:path "auth/rdf/staff" ;
-	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60,adr:2c46df88-6302-4c9e-b7ff-52d07c3190c6 ;
-	aut:forRole adr:d1739813-e745-4336-a9cb-a493ddac7f83;
-	aut:appId adr:WQ1WD5fRtieraybXqT9zNU342YXBIwsS .
-
-adr:Edpa3 a aut:Endpoint ;
-	aut:path "auth/rdf/admin" ;
-	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 ;
-	aut:appId adr:WQ1WD5fRtieraybXqT9zNU342YXBIwsS .
-
-adr:TestEdpa1 a aut:Endpoint ;
-	aut:path "auth/rdfaccess/private" ;
-	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60,adr:2c46df88-6302-4c9e-b7ff-52d07c3190c6, adr:e7c73ad6-9580-4c2c-bdfd-88b14bc5d266 ;
-	aut:appId adr:WQ1WD5fRtieraybXqT9zNU342YXBIwsS .
-
-adr:TestEdpa3 a aut:Endpoint ;
-	aut:path "auth/rdfaccess/admin/" ;
-	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60 ;
-	aut:appId adr:WQ1WD5fRtieraybXqT9zNU342YXBIwsS .
-
-adr:TestEdpa2 a aut:Endpoint ;
-	aut:path "auth/rdfaccess/staff" ;
-	aut:forGroup adr:f0f95a54-56cf-4bce-bf9d-8d2df6779b60,adr:2c46df88-6302-4c9e-b7ff-52d07c3190c6 ;
-	aut:forRole adr:d1739813-e745-4336-a9cb-a493ddac7f83;
 	aut:appId adr:WQ1WD5fRtieraybXqT9zNU342YXBIwsS .
 
 # ACCESSTYPE PERMISSIONS
