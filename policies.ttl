@@ -108,8 +108,10 @@ adr:act8 a aut:ResourceAccess;
 #Élie
 adr:114635926879799654981 aut:personalAccess bdr:W1KG26273 .
 
-#Marc
-adr:110316226482380068187 aut:personalAccess bdr:W28263 .
+#Orna: Nying gyu
+adr:5f7ef373bfa89c006847fcf3 aut:personalAccess bdr:W3CN6760 , bdr:W3CN8197 .
+
+#P. Hackett: Peydurma
 
 # Status based access
 
