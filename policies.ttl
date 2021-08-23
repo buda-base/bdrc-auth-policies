@@ -82,7 +82,7 @@ adr:5f7ef373bfa89c006847fcf3 aut:personalAccess bdr:W3CN6760 , bdr:W3CN8197 .
 
 adr:109648280833523968455 aut:personalAccess bdr:W1KG14700 .
 
-adr:61012e795558a800698dfae6 aut:personalAccess bdr:W1KG9752 .
+adr:61012e795558a800698dfae6 aut:personalAccess bdr:W1KG9752 , bdr:W00KG02590 , bdr:W1CZ1045 .
 
 #P. Hackett: Peydurma
 
