@@ -84,6 +84,10 @@ adr:109648280833523968455 aut:personalAccess bdr:W1KG14700 .
 
 adr:61012e795558a800698dfae6 aut:personalAccess bdr:W1KG9752 , bdr:W00KG02590 , bdr:W1CZ1045 .
 
+# Peydurma access for the Peydurma project
+
+adr:612daa6c3268ec006b62a6c0 aut:personalAccess bdr:W1PD96682 , bdr:W1PD95844 .
+
 #P. Hackett: Peydurma
 
 # Status based access
