@@ -92,7 +92,33 @@ adr:100433312259720154658 aut:personalAccess bdr:W3CN7776 .
 
 adr:612daa6c3268ec006b62a6c0 aut:personalAccess bdr:W1PD96682 , bdr:W1PD95844 .
 
-#P. Hackett: Peydurma
+# 84000: access to all the works in PR4JW5430, currently
+# - W1PD96682
+# - W1PD159104
+# - W1KG2733
+# - W1PD95844
+# - W26372
+# - W20135
+# - W1KG4919
+# - W1KG8789
+# the current translators are:
+# - John Canti: johncanti@gmail.com 5f2a7457157b670037ae1c95
+# - Andreas Doctor: andreasdoctor@gmail.com 61977961f4f1a2006bf7c357
+# - Nathaniel Rich: naterich@84000.co 109770763193694460448
+# - Rory Lindsay: rory.lindsay@84000.co 5f5476c409221600676dd29c
+# - Ryan Damron: rdamron@84000.co 5f3d36fff7455600396cac63
+# - Adam Krug: adam.krug@84000.co 6151f51fccc56e0068f81328
+# - Paul Hackett: siddhacarya@gmail.com 60fb38f2f9d764006809bb29
+# - Wiesiek Mical: wiesiek@84000.co 61924e30346ff80071142491
+
+adr:5f2a7457157b670037ae1c95 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+adr:61977961f4f1a2006bf7c357 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+adr:109770763193694460448 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+adr:5f5476c409221600676dd29c aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+adr:5f3d36fff7455600396cac63 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+adr:6151f51fccc56e0068f81328 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+adr:60fb38f2f9d764006809bb29 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+adr:61924e30346ff80071142491 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 
 # Status based access
 
