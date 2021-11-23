@@ -120,6 +120,11 @@ adr:6151f51fccc56e0068f81328 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 ,
 adr:60fb38f2f9d764006809bb29 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:61924e30346ff80071142491 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 
+# Translators of other organizations, same rights
+
+adr:102621594854631584682 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+
+
 # Status based access
 
 #Staff group
