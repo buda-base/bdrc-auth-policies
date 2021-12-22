@@ -110,6 +110,7 @@ adr:612daa6c3268ec006b62a6c0 aut:personalAccess bdr:W1PD96682 , bdr:W1PD95844 .
 # - Adam Krug: adam.krug@84000.co 6151f51fccc56e0068f81328
 # - Paul Hackett: siddhacarya@gmail.com 60fb38f2f9d764006809bb29
 # - Wiesiek Mical: wiesiek@84000.co 61924e30346ff80071142491
+# - Lowell Cook: lowell.cook@protonmail.com 61c17f49de51a30069b6549b
 
 adr:5f2a7457157b670037ae1c95 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:61977961f4f1a2006bf7c357 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
@@ -119,6 +120,7 @@ adr:5f3d36fff7455600396cac63 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 ,
 adr:6151f51fccc56e0068f81328 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:60fb38f2f9d764006809bb29 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:61924e30346ff80071142491 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+adr:61c17f49de51a30069b6549b aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 
 # Translators of other organizations, same rights
 
