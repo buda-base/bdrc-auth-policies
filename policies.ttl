@@ -114,6 +114,7 @@ adr:612daa6c3268ec006b62a6c0 aut:personalAccess bdr:W1PD96682 , bdr:W1PD95844 .
 # - Catherine Dalton: catherine.dalton@84000.co 61d370c1a07fb00069f5b5a4
 # - David Mellins <dmellins@gmail.com> 111392624153541918922
 # - Kaia Fischer <kaiafischer@icloud.com> 609debad589d2300694f945c
+# - Patrick Lambelet <pglambelet@ucsb.edu>  5f8e336e418fef006839a4e4
 
 adr:5f2a7457157b670037ae1c95 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:61977961f4f1a2006bf7c357 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
@@ -127,6 +128,7 @@ adr:61c17f49de51a30069b6549b aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 ,
 adr:61d370c1a07fb00069f5b5a4 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:111392624153541918922 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:609debad589d2300694f945c aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+adr:5f8e336e418fef006839a4e4 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 
 # Translators of other organizations, same rights
 
