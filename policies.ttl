@@ -130,6 +130,9 @@ adr:111392624153541918922 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bd
 adr:609debad589d2300694f945c aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:5f8e336e418fef006839a4e4 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 
+# test user
+adr:62370523983c5f007005a0bc aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+
 # Translators of other organizations, same rights
 
 adr:102621594854631584682 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
