@@ -115,6 +115,7 @@ adr:612daa6c3268ec006b62a6c0 aut:personalAccess bdr:W1PD96682 , bdr:W1PD95844 .
 # - David Mellins <dmellins@gmail.com> 111392624153541918922
 # - Kaia Fischer <kaiafischer@icloud.com> 609debad589d2300694f945c
 # - Patrick Lambelet <pglambelet@ucsb.edu>  5f8e336e418fef006839a4e4
+# - Thomas Doctor <thomas.doctor@gmail.com>  100841450535843285289
 
 adr:5f2a7457157b670037ae1c95 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:61977961f4f1a2006bf7c357 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
@@ -129,6 +130,7 @@ adr:61d370c1a07fb00069f5b5a4 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 ,
 adr:111392624153541918922 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:609debad589d2300694f945c aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 adr:5f8e336e418fef006839a4e4 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
+adr:100841450535843285289 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 
 # test user
 adr:62370523983c5f007005a0bc aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
