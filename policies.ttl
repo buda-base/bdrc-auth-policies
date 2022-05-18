@@ -84,9 +84,13 @@ adr:109648280833523968455 aut:personalAccess bdr:W1KG14700 .
 
 adr:61012e795558a800698dfae6 aut:personalAccess bdr:W1KG9752 , bdr:W00KG02590 , bdr:W1CZ1045 , bdr:W00KG010084 .
 
-# Gregory Forgues: Gesar
+# Gregory Forgues: Gesar + Tsadra research on Shantideva
 
-adr:100433312259720154658 aut:personalAccess bdr:W3CN7776 .
+adr:100433312259720154658 aut:personalAccess bdr:W3CN7776 , bdr:W1PD89051 , bdr:W1PD89051 , bdr:W1PD89084 , bdr:W1PD153536 , bdr:W3CN3408 , bdr:W1PD153536 , bdr:W1PD45496 , bdr:W1PD89051 , bdr:W1AC379 , bdr:W1PD107142 , bdr:W1PD95746 , bdr:W25007 , bdr:W23198 , bdr:W19567 , bdr:W19639 , bdr:W3CN7826 , bdr:W1PD89051 , bdr:W1PD89051 , bdr:W1PD89084 , bdr:W1PD153536 , bdr:W3CN3408 , bdr:W1PD153536 , bdr:W1PD45496 , bdr:W1PD89051 , bdr:W1AC379 , bdr:W1PD107142 , bdr:W1PD95746 , bdr:W25007 , bdr:W23198 , bdr:W19567 , bdr:W19639 , bdr:W3CN7826 , bdr:W4996 , bdr:W1KG4884 .
+
+# Tsadra research on Shantideva
+
+adr:6137334e6228b4006942ac81 aut:personalAccess bdr:W1PD89051 , bdr:W1PD89051 , bdr:W1PD89084 , bdr:W1PD153536 , bdr:W3CN3408 , bdr:W1PD153536 , bdr:W1PD45496 , bdr:W1PD89051 , bdr:W1AC379 , bdr:W1PD107142 , bdr:W1PD95746 , bdr:W25007 , bdr:W23198 , bdr:W19567 , bdr:W19639 , bdr:W3CN7826 , bdr:W1PD89051 , bdr:W1PD89051 , bdr:W1PD89084 , bdr:W1PD153536 , bdr:W3CN3408 , bdr:W1PD153536 , bdr:W1PD45496 , bdr:W1PD89051 , bdr:W1AC379 , bdr:W1PD107142 , bdr:W1PD95746 , bdr:W25007 , bdr:W23198 , bdr:W19567 , bdr:W19639 , bdr:W3CN7826 , bdr:W4996 , bdr:W1KG4884 .
 
 # Peydurma access for the Peydurma project
 
