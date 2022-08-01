@@ -86,7 +86,7 @@ adr:61012e795558a800698dfae6 aut:personalAccess bdr:W1KG9752 , bdr:W00KG02590 , 
 
 # Gregory Forgues: Gesar + Tsadra research on Shantideva
 
-adr:100433312259720154658 aut:personalAccess bdr:W3CN7776 , bdr:W1PD89051 , bdr:W1PD89051 , bdr:W1PD89084 , bdr:W1PD153536 , bdr:W3CN3408 , bdr:W1PD153536 , bdr:W1PD45496 , bdr:W1PD89051 , bdr:W1AC379 , bdr:W1PD107142 , bdr:W1PD95746 , bdr:W25007 , bdr:W23198 , bdr:W19567 , bdr:W19639 , bdr:W3CN7826 , bdr:W1PD89051 , bdr:W1PD89051 , bdr:W1PD89084 , bdr:W1PD153536 , bdr:W3CN3408 , bdr:W1PD153536 , bdr:W1PD45496 , bdr:W1PD89051 , bdr:W1AC379 , bdr:W1PD107142 , bdr:W1PD95746 , bdr:W25007 , bdr:W23198 , bdr:W19567 , bdr:W19639 , bdr:W3CN7826 , bdr:W4996 , bdr:W1KG4884 .
+adr:100433312259720154658 aut:personalAccess bdr:W3CN7776 , bdr:W1PD89051 , bdr:W1PD89051 , bdr:W1PD89084 , bdr:W1PD153536 , bdr:W3CN3408 , bdr:W1PD153536 , bdr:W1PD45496 , bdr:W1PD89051 , bdr:W1AC379 , bdr:W1PD107142 , bdr:W1PD95746 , bdr:W25007 , bdr:W23198 , bdr:W19567 , bdr:W19639 , bdr:W3CN7826 , bdr:W1PD89051 , bdr:W1PD89051 , bdr:W1PD89084 , bdr:W1PD153536 , bdr:W3CN3408 , bdr:W1PD153536 , bdr:W1PD45496 , bdr:W1PD89051 , bdr:W1AC379 , bdr:W1PD107142 , bdr:W1PD95746 , bdr:W25007 , bdr:W23198 , bdr:W19567 , bdr:W19639 , bdr:W3CN7826 , bdr:W4996 , bdr:W1KG4884 , bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 , bdr:W26008 , bdr:W18132 , bdr:W1PD76588 , bdr:W1KG4876 , bdr:W1KG15416 .
 
 # Tsadra research on Shantideva
 
