@@ -173,6 +173,8 @@ adr:102621594854631584682 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bd
 
 adr:5f35e2cf0af2540037a20553 aut:personalAccess bdr:W1PD96682 , bdr:W1PD159104 , bdr:W1KG2733 , bdr:W1PD95844 , bdr:W26372 , bdr:W20135 , bdr:W1KG4919 , bdr:W1KG8789 .
 
+adr:6126bb9cbe9d970071a0ce1a aut:personalAccess bdr:W8LS42293 .
+
 # Tenzin Dickie
 
 adr:5f3ed616c7f1540038f5bff5 aut:personalAccess bdr:W3CN18527 .
