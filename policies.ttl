@@ -261,3 +261,6 @@ adr:6325a49cd9a3bbee7544619f aut:personalAccess bdr:IE0OPIFFF3FCF6 , bdr:W1PD100
 
 adr:643a935135221d76b9d7b8b9 aut:personalAccess bdr:IE0OPIFFF3FCF6 , bdr:W1PD100944 , bdr:IE0OPI48DFFA46 , bdr:W3CN3207 , bdr:W1KG14783 .
  
+# paleography
+
+adr:000536.3cb51f9e47504fd6801be2ba0996bd9c.1535 aut:personalAccess bdr:W20382 , bdr:W20821 , bdr:W20242 , bdr:W27313 , bdr:W8LS26558 , bdr:W8LS20637 , bdr:W2MS743 , bdr:W1KG24968 , bdr:W8LS68205 , bdr:W1KG16575 , bdr:W3PD220 , bdr:W8LS20233 , bdr:W8LS68159 , bdr:W8LS68168 , bdr:W19967 , bdr:W1KG744 , bdr:W1KG4286 , bdr:W1KG16575 , bdr:W1KG16577 , bdr:W8LS75775 , bdr:W1AC255 , bdr:W4CZ368759 .
