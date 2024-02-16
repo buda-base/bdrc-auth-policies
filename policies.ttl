@@ -279,3 +279,9 @@ adr:5f7ef373bfa89c006847fcf3 aut:personalAccess bdr:W4PD502 .
 # EW
 
 adr:101049828834208062830  aut:personalAccess bdr:W1KG26108 .
+
+# Inalco
+
+adr:61feab2fd35e54006a77b305 aut:personalAccess bdr:W20817 , bdr:W20813 .
+
+adr:100617572312327047368 aut:personalAccess bdr:W20817 , bdr:W20813 .
