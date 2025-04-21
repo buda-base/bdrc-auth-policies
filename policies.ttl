@@ -299,7 +299,7 @@ adr:610302567a0309006872fe08 aut:personalAccess bdr:W2DB4627 , bdr:W1KG25685 , b
 adr:66e8f5fccd65a096e9e12e26 aut:personalAccess bdr:W1PD89051 , bdr:W1PD153536 , bdr:W1PD89084 , bdr:W4PD3076 .
 
 
-adr:114864512893315002681 aut:personalAccess bdr:W1KG14783 .
+adr:114864512893315002681 aut:personalAccess bdr:W1KG14783 , bdr:W3CN3406 , bdr:IE1PD96682 , bdr:W3CN5624 , bdr:W4CZ65026 , bdr:W1KG16653 .
 
 adr:669a286f736ca01e2b72fbd2 aut:personalAccess bdr:W4PD502 .
 
